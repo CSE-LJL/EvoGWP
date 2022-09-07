@@ -1,2 +1,2 @@
 # EvoGWP
-Source code of EvoGWP under review of SoCC 2022
+Source code of EvoGWP under review of IPDPS 2023
